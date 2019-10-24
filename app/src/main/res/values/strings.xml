@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">FragmentsLesson</string>
+    <string name="ooo">OOOOOOOOOOO!</string>
+    <string name="button_add_fragment">Добавить фрагмент</string>
+</resources>
